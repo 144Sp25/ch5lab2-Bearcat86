@@ -128,6 +128,16 @@ main ul {
     text-align: center;
 }
 
+.tel-link a {
+    background-color: #2a1f14;
+    padding: 2%;
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
 /* Style rules for footer content */
 footer {
     text-align: center;
